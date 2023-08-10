@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ahsandanyal/react-pro-cafe.git/static/css/main.cad305bf.css",
+    "main.js": "/ahsandanyal/react-pro-cafe.git/static/js/main.5726ced5.js",
+    "index.html": "/ahsandanyal/react-pro-cafe.git/index.html",
+    "main.cad305bf.css.map": "/ahsandanyal/react-pro-cafe.git/static/css/main.cad305bf.css.map",
+    "main.5726ced5.js.map": "/ahsandanyal/react-pro-cafe.git/static/js/main.5726ced5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cad305bf.css",
+    "static/js/main.5726ced5.js"
+  ]
+}
